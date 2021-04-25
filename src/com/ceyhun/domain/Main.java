@@ -1,6 +1,6 @@
 package com.ceyhun.domain;
 
-public class Track {
+public class Main {
 
     public static void main(String[] args) {
         Lamborghini lamborghini = new Lamborghini("Lamborghini", "Aventador", 350, "blauw");
