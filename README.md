@@ -12,3 +12,5 @@ Ik ben op het idee gekomen om binnen deze opdracht een race auto applicatie te b
 Verder maak ik de volgende Auto klassen aan (Ferrari.java), (Nissan.java) en (Lamborghini.java). In deze klassen staan de specifieke functionalteiten die bij die auto horen. Uiteindelijk heb ik nog de race klasse (Race.java) waar in functionaliteit staat om de race winnaar te bepalen. Dit doe ik door de snelheiden en gegeven gas te vergelijken met ieder auto object die is aangemaakt.
 
 Tot slot heb ik een main functionaliteit geschreven die in het bestand (Track.java) staat. hier worden auto objecten aangemaakt en de specifieke functionaleiten opgeroepen van die klassen. Wanneer dit is gedaan kan de race beginnen door de race functionalteit te gebruiken.
+
+- versie 1.0.0
